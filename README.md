@@ -8,10 +8,10 @@
 - 🌱 Constantly learning and building cool things
 
 ## 🌟 GitHub Stats
-![Keizen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Loytifi&show_icons=true&theme=radical)
+![Keizen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keizenx&show_icons=true&theme=radical)
 
 ## 📊 GitHub Activity Graph
-[![Keizen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Loytifi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Keizen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=keizenx&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 💻 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -28,7 +28,12 @@
 ## 📫 Connect With Me
 - **Email**: [franckbello0@gmail.com](mailto:franckbello0@gmail.com)
 - **Twitter**: [@keizensberg](https://x.com/keizensberg)
-- **GitHub**: [Loytifi](https://github.com/Loytifi)
+- **GitHub**: [keizen](https://github.com/keizenx)
+
+## 🌟 Featured Projects
+- [**SQLI_TOOL**](https://github.com/keizenx/SQLI_TOOL): An advanced SQL injection scanner with threading and payload management.  
+- [**Investment Optimizer**](https://github.com/keizenx/investment-optimizer): A data-driven tool for stock analysis and portfolio optimization.
 
 ## 🚀 Fun Fact
-> "Stay curious"# Loytifi
+> "Stay curious"
+# keizenx
