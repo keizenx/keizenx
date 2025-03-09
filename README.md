@@ -24,7 +24,7 @@
 
 ## 🏆 TryHackMe Badges
 <p align="center">
-  <img src="./assets/mrrobot.svg" alt="Mr Robot Badge" width="200"/>
+  <img src="./assets/mrrobbot.svg" alt="Mr Robot Badge" width="200"/>
 </p>
 
 [![TryHackMe Profile](https://tryhackme.com/franckbello0/badges/mr-robot)](https://tryhackme.com/franckbello0/badges/mr-robot)
