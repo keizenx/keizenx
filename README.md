@@ -22,6 +22,8 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+## 🏆 TryHackMe Badges
+[![Mr Robot Badge](https://tryhackme.com/franckbello0/badges/mr-robot)](https://tryhackme.com/franckbello0/badges/mr-robot)
 ## ☕ Support My Work
 [!["Buy Me A Coffee"](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/keizen)
 
