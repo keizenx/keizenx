@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans+&size=35&pause=1000&color=F70000&random=true&width=500&height=100&lines=Welcome+to+my+Github+%3A)](https://git.io/typing-svg)
+<div align="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3087781" style='border:none;'></iframe>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans+&size=35&pause=1000&color=F70000&random=true&width=500&height=100&lines=Welcome+to+my+Github+%3A)](https://git.io/typing-svg)
+</div>
 
 ## 👨‍💻 About Me
 - 🔭 Currently working with **Python, Django, and React**
@@ -22,12 +26,15 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 🏆 TryHackMe Badges
-<p align="center">
+## 🏆 TryHackMe Profile & Badges
+<div align="center">
   <img src="./assets/mrrobbot.svg" alt="Mr Robot Badge" width="200"/>
-</p>
+  <br>
+  <a href="https://tryhackme.com/franckbello0/badges/mr-robot">
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3087781" alt="TryHackMe Profile">
+  </a>
+</div>
 
-[![TryHackMe Profile](https://tryhackme.com/franckbello0/badges/mr-robot)](https://tryhackme.com/franckbello0/badges/mr-robot)
 ## ☕ Support My Work
 [!["Buy Me A Coffee"](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/keizen)
 
