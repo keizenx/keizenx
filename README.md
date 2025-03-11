@@ -26,7 +26,7 @@
 <div align="center">
   <img src="./assets/mrrobbot.svg" alt="Mr Robot Badge" width="200"/>
   <br><br>
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3087781" style='border:none;'></iframe>
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3087781" alt="TryHackMe Profile"/>
 </div>
 
 ## ☕ Support My Work
