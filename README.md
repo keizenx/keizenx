@@ -1,5 +1,5 @@
 <div align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3087781" style='border:none;'></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/franckbello0.png" alt="TryHackMe">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans+&size=35&pause=1000&color=F70000&random=true&width=500&height=100&lines=Welcome+to+my+Github+%3A)](https://git.io/typing-svg)
 </div>
@@ -29,10 +29,6 @@
 ## 🏆 TryHackMe Profile & Badges
 <div align="center">
   <img src="./assets/mrrobbot.svg" alt="Mr Robot Badge" width="200"/>
-  <br>
-  <a href="https://tryhackme.com/franckbello0/badges/mr-robot">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3087781" alt="TryHackMe Profile">
-  </a>
 </div>
 
 ## ☕ Support My Work
