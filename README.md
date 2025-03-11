@@ -27,7 +27,7 @@
   <img src="./assets/mrrobbot.svg" alt="Mr Robot Badge" width="200"/>
   <br><br>
   <a href="https://tryhackme.com/p/franckbello0">
-    <img src="https://tryhackme.com/badge/3087781" alt="TryHackMe Profile Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/franckbello0.png" alt="TryHackMe">
   </a>
 </div>
 
