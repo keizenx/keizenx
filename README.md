@@ -1,6 +1,5 @@
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/franckbello0.png)](https://tryhackme.com/p/franckbello0)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans+&size=35&pause=1000&color=F70000&random=true&width=500&height=100&lines=Welcome+to+my+Github+%3A)](https://git.io/typing-svg)
+
 
 ## 👨‍💻 About Me
 - 🔭 Currently working with **Python, Django, and React**
