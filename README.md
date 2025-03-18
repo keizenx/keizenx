@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&multiline=true&random=false&width=435&height=100&lines=Hi+people;Welcome+to+my+world;Let's+hack+together;Stay+curious)](https://git.io/typing-svg)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
