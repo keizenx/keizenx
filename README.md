@@ -1,6 +1,10 @@
-# ✨ Hi people ✨
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&multiline=true&random=false&width=435&height=100&lines=Hi+people;Welcome+to+my+world;Let's+hack+together;Stay+curious)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=Hi+people+%F0%9F%91%8B;Welcome+to+my+world+%F0%9F%8C%8E;Let's+hack+together+%F0%9F%92%BB;Stay+curious+%F0%9F%94%AE)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=F70000&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=Hi+people;Welcome+to+my+world;Let's+hack+together;Stay+curious" alt="Typing SVG" />
+  </a>
+</h1>
 
 ![Skull GIF](./media/kbskull.gif)
 
