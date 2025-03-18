@@ -47,7 +47,7 @@
 ## ☕ Support My Work
 
 <a href="https://ko-fi.com/keizen007" target="_blank">
-  <img src="./media/keizen007-Sharable-Profile" alt="Keizen Ko-fi Profile" style="border-radius: 25px; width: 100%;">
+  <img src="./media/keizen007-Sharable-Profile)-Horizontal.jpg" alt="Keizen Ko-fi Profile" style="border-radius: 25px; width: 100%;">
 </a>
 
 > I wouldn't be here without you. Every bit of support helps me keep creating, and I appreciate it more than words can say!
@@ -57,7 +57,6 @@
     <img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
   </a>
 </div>
-
 
 ## Connect With Me
 - **Email**: [franckbello0@gmail.com](mailto:franckbello0@gmail.com)
