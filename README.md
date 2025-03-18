@@ -57,6 +57,6 @@
 
 
 ## 🎵 Now Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lp6aw72utdogd5b7q5pzlzmbzq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lp6aw72utdogd5b7q5pzlzmbzq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
 
 > "Stay curious"
