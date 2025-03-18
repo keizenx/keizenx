@@ -7,18 +7,20 @@
 
 ![Skull GIF](./media/kbskull.gif)
 
+![Profile Views](https://komarev.com/ghpvc/?username=keizenx&color=red)
+
 ## 👨‍💻 About Me
 -  Currently working with **Python, Django**
 -  I love **Linux**
 -  learning and building cool things :)
 
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux)
-![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keizenx&layout=compact&theme=radical)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python) ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux) ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
+
 
 ## GitHub Stats
 ![Keizen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keizenx&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keizenx&layout=compact&theme=radical)
 
 ## GitHub Activity Graph
 [![Keizen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=keizenx&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -52,9 +54,8 @@
 - [**SQLI_TOOL**](https://github.com/keizenx/SQLI_TOOL): An advanced SQL injection scanner with threading and payload management.  
 - [**Investment Optimizer**](https://github.com/keizenx/investment-optimizer): A data-driven tool for stock analysis and portfolio optimization.
 
-![Profile Views](https://komarev.com/ghpvc/?username=keizenx&color=red)
 
-### 🎵 Ma Playlist
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4iTzwfuNdZnPdw10rpt3ds?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 > "Stay curious"
