@@ -1,4 +1,6 @@
-# Hi people :)
+# ✨ Hi people ✨
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=Hi+people+%F0%9F%91%8B;Welcome+to+my+world+%F0%9F%8C%8E;Let's+hack+together+%F0%9F%92%BB;Stay+curious+%F0%9F%94%AE)](https://git.io/typing-svg)
 
 ![Skull GIF](./media/kbskull.gif)
 
