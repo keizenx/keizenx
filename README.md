@@ -47,7 +47,7 @@
 ## ☕ Support My Work
 
 <a href="https://ko-fi.com/keizen007" target="_blank">
-  <img src="./media/keizen007-Sharable-Profile)-Horizontal.jpg" alt="Keizen Ko-fi Profile" style="border-radius: 25px; width: 495px;">
+  <img src="./media/keizen007-Sharable-Profile)-Horizontal.jpg" alt="Keizen Ko-fi Profile" style="border-radius: 25px; width: 400px;">
 </a>
 
 > I wouldn't be here without you. Every bit of support helps me keep creating, and I appreciate it more than words can say!
