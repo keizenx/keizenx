@@ -9,10 +9,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=keizenx&color=red)
 
-## 👨‍💻 About Me
+## About Me
 -  Currently working with **Python, Django**
--  I love **Linux**
--  learning and building cool things :)
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python) ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux) ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
 
