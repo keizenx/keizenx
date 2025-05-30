@@ -10,7 +10,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=keizenx&color=red)
 
 ## About Me
--  Currently working with **Python, Django**
+-  Currently working with **Python, Django, Linux**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python) ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux) ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
 
@@ -32,7 +32,7 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 🏆 TryHackMe Profile & Badges
+## TryHackMe Profile & Badges
 <div align="center">
   <img src="./assets/mrrobbot.svg" alt="Mr Robot Badge" width="200"/>
   <br><br>
@@ -59,10 +59,6 @@
 ## Connect With Me
 - **Email**: [franckbello0@gmail.com](mailto:franckbello0@gmail.com)
 - **Twitter**: [@keizensberg](https://x.com/keizensberg)
-
-## Featured Projects
-- [**SQLI_TOOL**](https://github.com/keizenx/SQLI_TOOL): An advanced SQL injection scanner with threading and payload management.  
-- [**Investment Optimizer**](https://github.com/keizenx/investment-optimizer): A data-driven tool for stock analysis and portfolio optimization.
 
 
 
