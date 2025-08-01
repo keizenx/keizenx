@@ -24,7 +24,7 @@
 --] Computer Science Major.
 --] Currently working on django and flutter
 
-![Skull GIF](./media/kbskull.gif)
+ <!-- ![Skull GIF](./media/kbskull.gif) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=keizenx&color=red)
 
