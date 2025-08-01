@@ -28,9 +28,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=keizenx&color=red)
 
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python) ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux) ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
-
-
 ## GitHub Stats
 ![Keizen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keizenx&show_icons=true&theme=radical)
 
