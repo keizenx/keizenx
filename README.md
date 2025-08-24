@@ -1,5 +1,4 @@
-![YUDHO](media/YUDHO.gif)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
+![](media/YUDHO.gif)
 ----]  Hiya, I am `keizen`.
 --] Computer Science Major.
 --] Currently working on django and flutter
