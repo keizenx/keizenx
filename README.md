@@ -1,4 +1,4 @@
-![](media/G0GFJpoaUAActHm.gif)
+![](media/twitter_gif_1761444020221.gif)
 ----]  Hiya, I am `keizen`.
 --] Computer Science Major.
 --] Currently working on django and flutter
