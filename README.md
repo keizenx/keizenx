@@ -6,13 +6,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=keizenx&color=red)
 
-## GitHub Stats
-![Keizen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keizenx&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keizenx&layout=compact&theme=radical)
-
-## GitHub Activity Graph
-[![Keizen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=keizenx&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## ☕ Support My Work
