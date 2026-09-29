@@ -1,4 +1,4 @@
-![](media/heya.gif)
+![](media/brandbird.gif)
 ----]  Hiya, I am `keizen`.
 --] Computer Science Major.
 
